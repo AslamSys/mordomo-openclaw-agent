@@ -1,5 +1,28 @@
 # 🤖 OpenClaw Agent - Comunicação Inteligente + RPA
 
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-openclaw-agent**
+
+### Containers Relacionados (aslam)
+- [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
+- [mordomo-audio-capture-vad](https://github.com/AslamSys/mordomo-audio-capture-vad)
+- [mordomo-wake-word-detector](https://github.com/AslamSys/mordomo-wake-word-detector)
+- [mordomo-speaker-verification](https://github.com/AslamSys/mordomo-speaker-verification)
+- [mordomo-whisper-asr](https://github.com/AslamSys/mordomo-whisper-asr)
+- [mordomo-speaker-id-diarization](https://github.com/AslamSys/mordomo-speaker-id-diarization)
+- [mordomo-source-separation](https://github.com/AslamSys/mordomo-source-separation)
+- [mordomo-core-gateway](https://github.com/AslamSys/mordomo-core-gateway)
+- [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
+- [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
+- [mordomo-tts-engine](https://github.com/AslamSys/mordomo-tts-engine)
+- [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
+- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
+- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
+- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
+
+---
+
 **Agente autônomo** de comunicação multi-canal e automação web, integrado ao ecossistema Mordomo.
 
 ---
